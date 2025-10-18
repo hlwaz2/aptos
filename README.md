@@ -6,7 +6,7 @@
 
 专注隐私与加密货币支付的瑞士主机。
 
-![Coin.Host Screenshot](image/coin.webp)
+![Coin.Host Screenshot](/coin.webp)
 
 
 Coin.Host是一家位于瑞士的主机服务商，地理位置本身就为用户数据提供了强大的法律保护。它最大的特色是广泛接受各种加密货币支付，如比特币(BTC)、以太坊(ETH)等，为需要匿名操作和注重隐私的用户提供了极大便利。
@@ -19,7 +19,7 @@ Coin.Host是一家位于瑞士的主机服务商，地理位置本身就为用�
 
 极致性价比，新手入门的首选平台。
 
-![Hostinger Screenshot](image/hostinger.webp)
+![Hostinger Screenshot](/hostinger.webp)
 
 
 如果你是个人博客主或刚起步的小企业，预算有限但又不想在性能上妥协，Hostinger绝对是值得一看的选择。它以极具竞争力的价格提供了令人惊讶的强大功能和服务。
@@ -32,7 +32,7 @@ Coin.Host是一家位于瑞士的主机服务商，地理位置本身就为用�
 
 WordPress官方推荐，新手友好度极高。
 
-![Bluehost Screenshot](image/bluehost.webp)
+![Bluehost Screenshot](/bluehost.webp)
 
 
 Bluehost是全球最受欢迎的主机商之一，特别是在WordPress建站领域，它得到了官方的认可和推荐。对于想用WordPress搭建网站的用户来说，选择Bluehost几乎不会出错。
@@ -45,7 +45,7 @@ Bluehost是全球最受欢迎的主机商之一，特别是在WordPress建站领
 
 外贸建站公认的稳定与速度之王。
 
-![SiteGround Screenshot](image/siteground.webp)
+![SiteGround Screenshot](/siteground.webp)
 
 
 如果你正在运营一个外贸独立站或者对网站的稳定性和速度有极致要求，SiteGround是业界公认的顶级选择之一。虽然价格稍高，但其提供的服务绝对物有所值。
@@ -58,7 +58,7 @@ Bluehost是全球最受欢迎的主机商之一，特别是在WordPress建站领
 
 以速度著称，提供Turbo服务器选项。
 
-![A2 Hosting Screenshot](image/a2hosting.webp)
+![A2 Hosting Screenshot](/a2hosting.webp)
 
 
 A2 Hosting一直将“速度”作为其核心卖点。如果你对网站的响应速度有较高要求，它提供的Turbo计划能带来高达20倍的性能提升，让你的网站快如闪电。
@@ -81,7 +81,7 @@ InMotion Hosting是一家信誉良好的老牌主机商，以其稳定可靠的�
 
 专为开发者打造，简洁强大的云平台。
 
-![DigitalOcean Screenshot](image/digitalocean.webp)
+![DigitalOcean Screenshot](/digitalocean.webp)
 
 
 DigitalOcean以其简洁的界面、清晰的定价和对开发者的友好性而闻名。如果你是开发者或技术爱好者，希望对服务器有完全的控制权，DO会是你的最爱。
@@ -104,7 +104,7 @@ Vultr和DigitalOcean类似，也是一家非常受开发者欢迎的云VPS提供
 
 功能均衡的老牌主机商，适合多种需求。
 
-![HostGator Screenshot](image/hostgator.webp)
+![HostGator Screenshot](/hostgator.webp)
 
 
 HostGator是另一家资深的主机提供商，以其灵活的套餐、丰富的功能和良好的扩展性而受到用户的欢迎。无论你是新手还是有经验的站长，都能在这里找到合适的方案。
@@ -117,7 +117,7 @@ HostGator是另一家资深的主机提供商，以其灵活的套餐、丰富�
 
 超长退款保证，备受赞誉的主机服务。
 
-![DreamHost Screenshot](image/dreamhost.webp)
+![DreamHost Screenshot](/dreamhost.webp)
 
 
 DreamHost是另一家获得WordPress官方推荐的主机商，以其出色的性能和对用户友好的政策而闻名。它最大的亮点之一是长达97天的退款保证，远超行业平均水平。
@@ -130,7 +130,7 @@ DreamHost是另一家获得WordPress官方推荐的主机商，以其出色的�
 
 个人站长喜爱的“老鹰主机”。
 
-![HawkHost Screenshot](image/hawkhost.webp)
+![HawkHost Screenshot](/hawkhost.webp)
 
 
 HawkHost，因其Logo被国内用户亲切地称为“老鹰主机”。它是一家性价比很高的主机商，特别受个人博客和小型项目站长的欢迎。
@@ -143,7 +143,7 @@ HawkHost，因其Logo被国内用户亲切地称为“老鹰主机”。它是�
 
 从域名到主机的全能型选手。
 
-![Namecheap Screenshot](image/namecheap.webp)
+![Namecheap Screenshot](/namecheap.webp)
 
 
 Namecheap最初以提供便宜的域名注册服务而闻名，后来扩展到主机领域。它提供的主机服务同样延续了其高性价比的特点，非常适合预算有限的用户。
@@ -156,7 +156,7 @@ Namecheap最初以提供便宜的域名注册服务而闻名，后来扩展到�
 
 高度可定制的云VPS，适合高阶用户。
 
-![Kamatera Screenshot](image/kamatera.webp)
+![Kamatera Screenshot](/kamatera.webp)
 
 
 对于经验丰富的开发者或需要高度定制化服务器配置的企业，Kamatera是一个绝佳的选择。它提供完全可配置的云VPS，让你像搭积木一样自由选择CPU、内存和存储。
@@ -169,7 +169,7 @@ Namecheap最初以提供便宜的域名注册服务而闻名，后来扩展到�
 
 创新的SPanel，VPS管理的更优选择。
 
-![ScalaHosting Screenshot](image/scalahosting.webp)
+![ScalaHosting Screenshot](/scalahosting.webp)
 
 
 当你的网站流量增长，共享主机不再能满足需求时，ScalaHosting是升级到VPS的理想“下一站”。它自研的SPanel控制面板是cPanel的一个强大替代品，并且不收取额外费用。
@@ -182,7 +182,7 @@ Namecheap最初以提供便宜的域名注册服务而闻名，后来扩展到�
 
 覆盖亚太地区的优质选择。
 
-![FastComet Screenshot](image/fastcomet.webp)
+![FastComet Screenshot](/fastcomet.webp)
 
 
 如果你的目标用户主要集中在亚洲或大洋洲，FastComet是一个值得考虑的选项。它在东京、新加坡、孟买和悉尼都设有数据中心，可以为这些地区的用户提供更快的访问速度。
